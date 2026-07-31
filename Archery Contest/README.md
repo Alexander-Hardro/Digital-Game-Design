@@ -1,4 +1,8 @@
+
 <h1>Robin Hood Archery Challenge</h1>
+
+<img width="300" height="300" alt="cover" src="https://github.com/user-attachments/assets/15feb8ff-a649-4db3-9b89-44c92e2e93eb" />
+
 
 <b>Description</b>
 
@@ -17,6 +21,10 @@ Robin Hood Archery Challenge is a turn-based target shooting game built with the
 </ul>
 
 <h2>Gameplay</h2>
+
+<img width="200" height="200" alt="Screenshot 2026-07-30 at 9 35 10 PM" src="https://github.com/user-attachments/assets/ede69f0a-a372-47f6-9643-2eed97acdf63" />
+<img width="200" height="200" alt="Screenshot 2026-07-30 at 9 35 31 PM" src="https://github.com/user-attachments/assets/fee57746-60ac-45f2-8d37-eadcc254084a" />
+
 
 The player competes against an AI archer in a best-score competition over three rounds.
 
@@ -51,17 +59,6 @@ Your score is based on how close the shot lands to the center of the target. Aft
         <td>R</td>
     </tr>
 </table>
-
-<h2>Screenshots</h2>
-
-<i>Add gameplay screenshots or an animated GIF here.</i>
-
-<ul>
-    <li>Target waiting for the first shot</li>
-    <li>Vertical aiming phase</li>
-    <li>Horizontal aiming phase</li>
-    <li>Final scoreboard and winner screen</li>
-</ul>
 
 <h2>Tech Stack</h2>
 

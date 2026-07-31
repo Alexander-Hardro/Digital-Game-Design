@@ -55,16 +55,6 @@ There is no final level or victory condition—the goal is simply to continue pu
     </tr>
 </table>
 
-<h2>Screenshots</h2>
-
-<i>Add gameplay screenshots or an animated GIF here.</i>
-
-<ul>
-    <li>Pump idle state</li>
-    <li>Balloon inflating</li>
-    <li>Balloon popping animation</li>
-</ul>
-
 <h2>Tech Stack</h2>
 
 <ul>

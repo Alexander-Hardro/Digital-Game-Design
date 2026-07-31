@@ -1,5 +1,9 @@
 <h1>Emoji Math Deluxe</h1>
 
+
+<img width="300" height="300" alt="cover" src="https://github.com/user-attachments/assets/7c8bc148-468d-4d53-8b3b-d2b77d051f91" />
+
+
 <b>Description</b>
 
 Emoji Math Deluxe is an educational puzzle game built with the <b>Perlenspiel</b> game engine. Players solve a series of math problems where numbers are represented by emojis instead of traditional digits. By recognizing emoji patterns and performing arithmetic, players must determine the correct answer to progress through increasingly challenging puzzles.
@@ -16,6 +20,9 @@ Emoji Math Deluxe is an educational puzzle game built with the <b>Perlenspiel</b
 </ul>
 
 <h2>Gameplay</h2>
+
+<img width="250" height="150" alt="Screenshot 2026-07-28 at 12 10 05 PM" src="https://github.com/user-attachments/assets/a780978d-33c8-4602-912a-200d614afc03" />
+
 
 Each level presents one or more equations using emojis in place of numbers.
 
@@ -50,17 +57,6 @@ Correct answers unlock the next puzzle, while incorrect answers allow the player
         <td>Enter</td>
     </tr>
 </table>
-
-<h2>Screenshots</h2>
-
-<i>Add gameplay screenshots or an animated GIF here.</i>
-
-<ul>
-    <li>Opening puzzle</li>
-    <li>Emoji equation</li>
-    <li>Correct answer screen</li>
-    <li>Final completion screen</li>
-</ul>
 
 <h2>Tech Stack</h2>
 

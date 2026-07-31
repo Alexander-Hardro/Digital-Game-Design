@@ -1,5 +1,8 @@
 <h1>Balloon Pump</h1>
 
+<img width="300" height="300" alt="cover" src="https://github.com/user-attachments/assets/06171654-8383-45f4-a261-1a35313a72f4" />
+
+
 <b>Description</b>
 
 Balloon Pump is a simple arcade-style reflex game built using the <b>Perlenspiel</b> game engine. Players repeatedly click a hand pump to inflate a balloon, but every pump brings it one step closer to popping. After each pop, the balloon requires even more pumps to burst again, creating an increasingly challenging test of endurance and timing.
@@ -16,6 +19,11 @@ Balloon Pump is a simple arcade-style reflex game built using the <b>Perlenspiel
 </ul>
 
 <h2>Gameplay</h2>
+
+<img width="200" height="200" alt="Screenshot 2026-07-28 at 12 07 28 PM" src="https://github.com/user-attachments/assets/35594d0c-a302-4b0e-b586-993932d4d112" />
+<img width="200" height="200" alt="Screenshot 2026-07-28 at 12 08 00 PM" src="https://github.com/user-attachments/assets/c34d9032-8434-4fb2-a6ec-04be8e064b83" />
+
+
 
 The objective is straightforward: click the pump handle to inflate the balloon as much as possible.
 

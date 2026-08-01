@@ -4,7 +4,7 @@ Explore a collection of games developed using the <b>Perlenspiel</b> JavaScript 
 
 <h1>Projects</h1>
 
-<b>Balloon Pump</b>
+[<b>Balloon Pump</b>](https://github.com/Alexander-Hardro/Digital-Game-Design/tree/main/Balloon%20Pumping%20Simulator%20'26)
 
 <img width="250" height="250" alt="cover" src="https://github.com/user-attachments/assets/39dd1e3c-0b46-4605-9ba1-0af2e9cd7c90" />
 
@@ -13,7 +13,7 @@ Balloon Pump is an arcade-style reflex game where players repeatedly click a han
 
 <br><br>
 
-<b>Emoji Math Deluxe</b>
+[<b>Emoji Math Deluxe</b>](https://github.com/Alexander-Hardro/Digital-Game-Design/tree/main/Emoji%20Math%20Deluxe)
 
 <img width="250" height="250" alt="cover" src="https://github.com/user-attachments/assets/9de8ad8b-fa12-49cd-9038-4ce526a1a2cb" />
 
@@ -22,7 +22,7 @@ Emoji Math Deluxe is an educational puzzle game that challenges players to solve
 
 <br><br>
 
-<b>Robin Hood Archery Challenge</b>
+[<b>Robin Hood Archery Challenge</b>](https://github.com/Alexander-Hardro/Digital-Game-Design/tree/main/Archery%20Contest)
 
 <img width="250" height="250" alt="cover" src="https://github.com/user-attachments/assets/58265a2a-d0bd-495b-89b6-2c59f72511fe" />
 
